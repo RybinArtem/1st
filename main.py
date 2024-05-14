@@ -18,3 +18,4 @@ def simnum(num):
 func = simnum(num)
 print(func)
 
+print()
